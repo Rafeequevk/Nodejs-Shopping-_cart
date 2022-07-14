@@ -1,0 +1,24 @@
+.btn-fit-content {
+    width: fit-content;
+}
+
+.justify-flex-end {
+    justify-content: flex-end;
+}
+
+fieldset {
+    background-color: #c32b2b;
+}
+
+#legend {
+    width: fit-content;
+    background-color: rgb(100, 3, 3);
+    color: rgb(0, 0, 0);
+    padding: 5px 10px;
+}
+.justify-content{
+    justify-content: center;
+      }
+input {
+    margin: 5px;
+}
